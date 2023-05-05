@@ -1,7 +1,7 @@
 # Diabetes-Prediction-Model
 Developing a model that predicts if one has diabetes or not
 
-# PROBLEM STATEMENT
+# Problem Statement
 
 The objective of this project is to build a model to predict whether a patient has diabetes or not based on certain diagnostic measurements included in the dataset.
 
@@ -24,3 +24,11 @@ SkinThickness: Triceps skinfold thickness (mm)
 Insulin: 2-Hour serum insulin (mu U/ml)
 
 BMI: Body mass index (weight in kg/(height in m)^2)
+
+BMI: Body mass index (weight in kg/(height in m)^2)
+
+DiabetesPedigreeFunction: Diabetes pedigree function
+
+Age: Age (years)
+
+Outcome: Class variable (0 or 1) indicating whether the patient has diabetes or not
